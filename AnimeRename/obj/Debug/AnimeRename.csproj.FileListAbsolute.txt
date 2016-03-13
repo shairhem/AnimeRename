@@ -1,0 +1,6 @@
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeRename\AnimeRename\bin\Debug\AnimeRename.exe.config
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeRename\AnimeRename\bin\Debug\AnimeRename.exe
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeRename\AnimeRename\bin\Debug\AnimeRename.pdb
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeRename\AnimeRename\obj\Debug\AnimeRename.csprojResolveAssemblyReference.cache
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeRename\AnimeRename\obj\Debug\AnimeRename.exe
+c:\users\asdadasfff\documents\visual studio 2015\Projects\AnimeRename\AnimeRename\obj\Debug\AnimeRename.pdb
